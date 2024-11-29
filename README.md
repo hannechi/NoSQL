@@ -135,7 +135,7 @@ SREM utilisateurs "Augustin"
 ```
 #### Union de deux ensembles: SUNION ensemble1 ensemble2
 ```bash
-SADD autresUtilisateurs "Malek"
+SADD autresUtilisateurs "Chiheb"
 SUNION utilisateurs autresUtilisateurs
 ```
 ### 3. Ensembles Ordonnés (Sorted Sets)
